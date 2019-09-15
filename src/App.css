@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  background: darkcyan;
+}
+
+h1, h6, h3{
+  font-style: oblique;
+}
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+#btn1{
+  border-radius: 30px;
+  background: green;
+  color: white;
+  padding: 10px;
+  margin-left: 15px;
+}
+input{
+  padding: 10px;
+}
